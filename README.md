@@ -1,29 +1,234 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7b6cf0&height=1&section=header" width="100%"/>
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--              HERO — ANIMATED CAPSULE BANNER               -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:1a0a2e,60:0d1a2e,100:0a1a0d&height=280&section=header&text=Abhishek%20Grover&fontSize=72&fontColor=e8e8f0&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Builder&descSize=18&descAlignY=68&descColor=9b8fcf&animation=twinkling&stroke=7b6cf0&strokeWidth=1" width="100%"/>
+
+<!-- ── TYPING ANIMATION ── -->
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=7B6CF0&center=true&vCenter=true&multiline=false&width=520&height=32&lines=Building+RAG+systems+%26+agentic+pipelines+%F0%9F%A4%96;ML+Intern+%40+Cognifyz+Technologies+%F0%9F%8F%AD;LangGraph+%C2%B7+LangChain+%C2%B7+ChromaDB+%C2%B7+FastAPI;Open+to+AI+%2F+ML+internships+%F0%9F%9A%80;BCA+%C2%B7+Amity+University+Online+%C2%B7+2027)](https://abhishekgroverai.netlify.app/)
 
 <br/>
 
+<!-- ── STATUS PILLS ── -->
+<img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20Internships-0a1f12?style=flat-square&labelColor=071510&color=0f2e1c" height="22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/New%20Delhi%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-0d0d1a?style=flat-square&labelColor=0d0d1a&color=151528" height="22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BCA%20%C2%B7%20Sem%205%20of%206-13102a?style=flat-square&labelColor=0d0d1a&color=13102a" height="22"/>
+
+<br/><br/>
+
+<!-- ── SOCIAL ICONS ── -->
 <a href="https://github.com/AbhishekGrover1">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d17&height=160&text=ABHISHEK%20GROVER&fontColor=c9d1d9&fontSize=42&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20New%20Delhi%2C%20India&descColor=7b6cf0&descSize=15&descAlignY=72&animation=fadeIn" width="100%"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abhishek-grover-199884295/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/abh1shekgrover">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+</a>
+&nbsp;
+<a href="mailto:ss107456@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+</a>
+&nbsp;
+<a href="https://abhishekgroverai.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7b6cf0?style=for-the-badge&logo=netlify&logoColor=white" height="30"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                      ABOUT ME                             -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:13102a,100:0a1a0d&height=2&section=header" width="100%"/>
+
+<div align="center">
+<br/>
+
+### `{ about_me }`
+
+</div>
+
+```python
+class AbhishekGrover:
+
+    role        = "AI / ML Engineer"
+    degree      = "BCA — Amity University Online, Noida  (Sem 5 / 6 · 2027)"
+    location    = "New Delhi, India"
+    status      = "Open to AI/ML Internships & Entry-Level Roles"
+
+    internship  = "Cognifyz Technologies · Machine Learning · 2024"
+    dataset     = "9,551 restaurant records across 141 cities"
+    best_model  = "Gradient Boosting · R² = 0.6246 · MSE = 0.1161"
+
+    building    = ["RAG Pipelines", "LangGraph Agents", "Production ML APIs"]
+    learning    = ["Deep Learning", "Transformers", "LLM Fine-tuning", "MLOps"]
+    goal        = "Contribute to production AI systems at scale"
+
+    fun_fact    = "I design my own portfolio sites too 🎨"
+```
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                   ANIMATED CODER GIF                      -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="AI Engineer coding" />
+
+<br/><br/>
+
+> *"The best way to predict the future is to build it."*
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    PORTFOLIO BUTTON                        -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### `{ portfolio }`
+
+<br/>
+
+<a href="https://abhishekgroverai.netlify.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20abhishekgroverai.netlify.app%20%20%E2%86%97-7b6cf0?style=for-the-badge&labelColor=13102a&color=1e1a3a" height="38"/>
 </a>
 
 <br/><br/>
 
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=7B6CF0&center=true&vCenter=true&width=480&lines=AI+%2F+ML+Engineer;Building+Intelligent+Systems;Deep+Learning+Enthusiast;Open+to+AI%2FML+Opportunities)](https://git.io/typing-svg)
+<sub>RAG Systems · Multi-Agent Pipelines · ML Models · Live Apps · Internship Projects</sub>
+
+</div>
 
 <br/>
 
-<a href="https://github.com/AbhishekGrover1"><img src="https://img.shields.io/badge/GitHub-AbhishekGrover1-0d1117?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22&color=21262d" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/abhishek-grover-199884295/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat&logo=linkedin&logoColor=5aadff&labelColor=0a1628&color=0d2137" /></a>&nbsp;
-<a href="https://www.instagram.com/abh1shekgrover"><img src="https://img.shields.io/badge/Instagram-abh1shekgrover-0d1117?style=flat&logo=instagram&logoColor=f093cc&labelColor=1a0a14&color=2a0d1e" /></a>&nbsp;
-<a href="mailto:ss107456@gmail.com"><img src="https://img.shields.io/badge/Email-ss107456@gmail.com-0d1117?style=flat&logo=gmail&logoColor=7b6cf0&labelColor=0f0f1a&color=1a1a2e" /></a>
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                   FEATURED PROJECTS                        -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### `{ featured_projects }`
+
+</div>
+
+<br/>
+
+| &nbsp; | Project | Stack | Status |
+|:---:|---|---|:---:|
+| 🤖 | **[University Notes RAG System](https://github.com/AbhishekGrover1/university-notes-rag)**<br/><sub>PDF Q&A with citation-aware retrieval. ChromaDB vector store, `text-embedding-3-small`, Streamlit drag-and-drop UI. Every answer references the source page.</sub> | `LangChain` `ChromaDB` `OpenAI` `FastAPI` `Streamlit` | ![](https://img.shields.io/badge/Building-7b6cf0?style=flat-square) |
+| 🕸️ | **[Multi-Agent Research Assistant](https://github.com/AbhishekGrover1/multi-agent-research-assistant)**<br/><sub>LangGraph state graph — Planner → Researcher → Writer → Validator. Typed inter-agent dict. FastAPI REST interface, Docker containerised.</sub> | `LangGraph` `LangChain` `FastAPI` `Docker` `OpenAI` | ![](https://img.shields.io/badge/Building-7b6cf0?style=flat-square) |
+| 📄 | **[AI Resume Analyzer](https://github.com/AbhishekGrover1/ai-resume-analyzer)**<br/><sub>Upload PDF + job description → TF-IDF skill-gap analysis + spaCy NLP + OpenAI ATS score. Scored breakdown by section.</sub> | `spaCy` `Scikit-learn` `OpenAI` `Streamlit` | ![](https://img.shields.io/badge/Building-7b6cf0?style=flat-square) |
+| 💳 | **[Financial Fraud Detection](https://github.com/AbhishekGrover1/fraud-detection-ml)**<br/><sub>XGBoost on Kaggle Credit Card Fraud (0.17% fraud rate). SMOTE oversampling. PR-AUC = 0.91 on held-out test set.</sub> | `XGBoost` `SMOTE` `Scikit-learn` `Pandas` | ![](https://img.shields.io/badge/Completed-4fa88e?style=flat-square) |
+| 🍽️ | **[Cognifyz ML Internship](https://github.com/AbhishekGrover1/cognifyz-ml-internship)**<br/><sub>3 end-to-end pipelines on 9,551 real restaurant records — rating prediction (R²=0.6246), recommendation engine (141 cities, 1,825+ cuisines), geospatial analytics (9,052 GPS points, 8 visualizations).</sub> | `Scikit-learn` `Pandas` `Gradient Boosting` `Matplotlib` | ![](https://img.shields.io/badge/Completed-4fa88e?style=flat-square) |
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                      TECH STACK                           -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### `{ tech_stack }`
+
+<br/>
+
+**— Languages —**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4479A1)
+
+<br/>
+
+**— AI & Machine Learning —**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=11557c)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=python&logoColor=F7931E)
+
+<br/>
+
+**— AI Engineering —**
+
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=python&logoColor=7b6cf0)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logo=python&logoColor=4fa88e)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+
+<br/>
+
+**— Tools & Environment —**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=e6edf3)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
+![Colab](https://img.shields.io/badge/Colab-0d1117?style=flat-square&logo=googlecolab&logoColor=F9AB00)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                   GITHUB ANALYTICS                         -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### `{ github_analytics }`
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbhishekGrover1&show_icons=true&bg_color=0d0d17&border_color=1e1e2e&title_color=7b6cf0&icon_color=4fa88e&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGrover1&layout=compact&bg_color=0d0d17&border_color=1e1e2e&title_color=7b6cf0&text_color=c9d1d9&hide_border=false&langs_count=6" height="170"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/●%20OPEN%20TO%20INTERNSHIPS-4fa88e?style=flat&labelColor=0a1410&color=0a1e18" />&nbsp;
-<img src="https://img.shields.io/badge/BCA%20·%20SEM%205%20OF%206-7b6cf0?style=flat&labelColor=0f0f1a&color=13102a" />&nbsp;
-<img src="https://img.shields.io/badge/AMITY%20UNIVERSITY%20ONLINE-3e3e56?style=flat&labelColor=0d1117&color=1a1a2e" />
+<img src="https://streak-stats.demolab.com?user=AbhishekGrover1&background=0d0d17&border=1e1e2e&stroke=7b6cf0&ring=7b6cf0&fire=4fa88e&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=555566&sideNums=c9d1d9&currStreakNum=c9d1d9" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekGrover1&bg_color=0d0d17&color=c9d1d9&line=7b6cf0&point=4fa88e&area=true&area_color=13102a&border_color=1e1e2e&hide_border=false" width="96%"/>
 
 </div>
 
@@ -31,377 +236,156 @@
 
 ---
 
-<br/>
-
-```python
-# ── ABHISHEK GROVER ─────────────────────────────────────────────────────────
-
-class AbhishekGrover:
-    role        = "AI / ML Engineer (Aspiring)"
-    university  = "Amity University Online, Noida · BCA Sem 5 of 6 · 2027"
-    location    = "New Delhi, India"
-    status      = "Open to AI/ML Internships & Entry-Level Roles"
-
-    internship  = {
-        "org"      : "Cognifyz Technologies · Machine Learning · 2024",
-        "dataset"  : "9,551 restaurant records",
-        "tasks"    : ["Rating Prediction", "Recommendation Engine", "Geo Analytics"],
-        "best_R2"  : 0.6246,     # Gradient Boosting · held-out test data
-        "geo"      : "141 cities · 9,052 GPS points · 8 visualizations",
-    }
-
-    focus = [
-        "Supervised Machine Learning · Scikit-learn · XGBoost",
-        "RAG Pipelines · LangChain · ChromaDB · OpenAI",
-        "Agentic Workflows · LangGraph · Multi-Agent Systems",
-        "Deep Learning · NLP · Generative AI  ← learning",
-    ]
-
-    contact = "ss107456@gmail.com"
-    goal    = "Contribute to production AI systems at scale."
-```
-
-<br/>
-
----
-
-<br/>
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                  CONTRIBUTION SNAKE                        -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<sub><code>// 01 — ML INTERNSHIP</code></sub>
+
+### `{ contribution_map }`
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AbhishekGrover1/AbhishekGrover1/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AbhishekGrover1/AbhishekGrover1/output/github-snake.svg"/>
+  <img alt="contribution snake" width="96%"
+    src="https://raw.githubusercontent.com/AbhishekGrover1/AbhishekGrover1/output/github-snake-dark.svg"/>
+</picture>
+
 </div>
-
-<br/>
-
-## Cognifyz Technologies &nbsp;·&nbsp; Machine Learning Internship
-
-> End-to-end ML internship on a real-world restaurant dataset of **9,551 records** — three complete pipelines covering supervised regression, content-based recommendation, and geospatial analytics. Every project included EDA, preprocessing, model training, evaluation metrics, and a written report.
-
-<br/>
-
-<table>
-<thead>
-<tr>
-<th align="left" width="22%">Attribute</th>
-<th align="left">Detail</th>
-</tr>
-</thead>
-<tbody>
-<tr><td><code>Organization</code></td><td>Cognifyz Technologies</td></tr>
-<tr><td><code>Domain</code></td><td>Machine Learning</td></tr>
-<tr><td><code>Dataset</code></td><td>9,551 restaurant records · Zomato-structured</td></tr>
-<tr><td><code>Tasks</code></td><td>Task 1 · Task 2 · Task 4</td></tr>
-<tr><td><code>Best Model</code></td><td>Gradient Boosting · R² = 0.6246 · MSE = 0.1161</td></tr>
-<tr><td><code>Stack</code></td><td>Python · Scikit-learn · Pandas · Matplotlib · NumPy</td></tr>
-<tr><td><code>Year</code></td><td>2024</td></tr>
-<tr><td><code>Enrollment</code></td><td>A9922524003987(el)</td></tr>
-</tbody>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<th align="left" width="33%">Task 1 — Rating Predictor</th>
-<th align="left" width="33%">Task 2 — Recommendation Engine</th>
-<th align="left" width="34%">Task 4 — Geo Analytics</th>
-</tr>
-<tr>
-<td valign="top">
-
-Supervised regression benchmarking 4 models on 7,403 rated records. Full EDA, feature engineering, leakage prevention.
-
-```
-R²   → 0.6246 (Gradient Boosting)
-MSE  → 0.1161
-n    → 7,403 records
-```
-
-`Python` `Scikit-learn` `Pandas`<br/>`Gradient Boosting` `Matplotlib`
-
-</td>
-<td valign="top">
-
-Weighted content-based filtering across 4 signals: cuisine match (35%), rating (30%), budget (20%), city proximity (15%).
-
-```
-Cities    → 141
-Cuisines  → 1,825+
-Signals   → 4 weighted criteria
-```
-
-`Python` `Pandas` `NumPy`<br/>`Content-Based Filtering`
-
-</td>
-<td valign="top">
-
-Geographic analysis generating 8 publication-quality plots: scatter maps, density heatmaps, regional cuisine breakdown.
-
-```
-GPS Points → 9,052
-Cities     → 141
-Plots      → 8 visualizations
-```
-
-`Python` `Matplotlib` `Pandas`<br/>`Geospatial Analysis`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
 ---
 
-<br/>
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                   CURRENT FOCUS                            -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<sub><code>// 02 — FEATURED PROJECTS</code></sub>
+
+### `{ current_focus }`
+
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01` &nbsp; University Notes RAG System
-
-Document Q&A for study material. PDFs chunked with `RecursiveCharacterTextSplitter`, embedded via `text-embedding-3-small`, stored in ChromaDB. Retrieval feeds a citation-aware prompt — every answer includes source page references. Streamlit frontend with drag-and-drop upload.
-
-<sub>`LangChain` &nbsp; `ChromaDB` &nbsp; `FastAPI` &nbsp; `Streamlit` &nbsp; `OpenAI API` &nbsp; `RAG`</sub>
-
-<sub>![Status](https://img.shields.io/badge/In%20Progress-7b6cf0?style=flat&labelColor=13102a)</sub>
-&nbsp;
-<sub>[![Repo](https://img.shields.io/badge/GitHub-View-21262d?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/AbhishekGrover1)</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### `02` &nbsp; Multi-Agent Research Assistant
-
-LangGraph state graph — planner decomposes queries, researcher executes Tavily-backed searches, writer synthesizes, validator fact-checks before final report. Typed state dict manages inter-agent state. FastAPI REST interface; Docker containerised.
-
-<sub>`LangGraph` &nbsp; `LangChain` &nbsp; `Tavily` &nbsp; `FastAPI` &nbsp; `Docker` &nbsp; `OpenAI`</sub>
-
-<sub>![Status](https://img.shields.io/badge/In%20Progress-7b6cf0?style=flat&labelColor=13102a)</sub>
-&nbsp;
-<sub>[![Repo](https://img.shields.io/badge/GitHub-View-21262d?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/AbhishekGrover1)</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `03` &nbsp; AI Resume Analyzer
-
-Accepts PDF + job description. TF-IDF keyword match and spaCy NLP for skill-gap analysis, then OpenAI API for role-specific improvement suggestions and ATS compatibility score. Streamlit frontend with scored section breakdown.
-
-<sub>`spaCy` &nbsp; `Scikit-learn` &nbsp; `OpenAI API` &nbsp; `Streamlit` &nbsp; `PyPDF2`</sub>
-
-<sub>![Status](https://img.shields.io/badge/In%20Progress-7b6cf0?style=flat&labelColor=13102a)</sub>
-&nbsp;
-<sub>[![Repo](https://img.shields.io/badge/GitHub-View-21262d?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/AbhishekGrover1)</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### `04` &nbsp; Financial Fraud Detection System
-
-Binary classification on Kaggle's Credit Card Fraud dataset (0.17% fraud rate). SMOTE oversampling for class imbalance. XGBoost achieved **PR-AUC = 0.91** on held-out test. Matplotlib risk distribution dashboard.
-
-<sub>`XGBoost` &nbsp; `Scikit-learn` &nbsp; `SMOTE` &nbsp; `Pandas` &nbsp; `imbalanced-learn`</sub>
-
-<sub>![Status](https://img.shields.io/badge/Completed-4fa88e?style=flat&labelColor=0a1e18)</sub>
-&nbsp;
-<sub>[![Repo](https://img.shields.io/badge/GitHub-View-21262d?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/AbhishekGrover1)</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `05` &nbsp; Customer Churn Prediction
-
-End-to-end churn pipeline (Lloyds Banking Group simulation). Full EDA, preprocessing, feature importance analysis — 4 algorithms benchmarked. Random Forest achieved best F1 on held-out validation set.
-
-<sub>`Python` &nbsp; `Scikit-learn` &nbsp; `Pandas` &nbsp; `Random Forest` &nbsp; `XGBoost`</sub>
-
-<sub>![Status](https://img.shields.io/badge/Completed-4fa88e?style=flat&labelColor=0a1e18)</sub>
-&nbsp;
-<sub>[![Repo](https://img.shields.io/badge/GitHub-View-21262d?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/AbhishekGrover1)</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### `06` &nbsp; Cuisine Classification System
-
-Multi-class classification on the Cognifyz dataset. TF-IDF features from menu metadata, three classifiers benchmarked (Logistic Regression, Random Forest, Gradient Boosting), confusion matrix + classification report.
-
-<sub>`Python` &nbsp; `Scikit-learn` &nbsp; `Pandas` &nbsp; `TF-IDF` &nbsp; `Matplotlib`</sub>
-
-<sub>![Status](https://img.shields.io/badge/Completed-4fa88e?style=flat&labelColor=0a1e18)</sub>
-&nbsp;
-<sub>[![Repo](https://img.shields.io/badge/GitHub-View-21262d?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/AbhishekGrover1)</sub>
-
-</td>
-</tr>
-</table>
+```
+ 2026 — BUILDING                          2027 — SCALING
+ ─────────────────────────────            ─────────────────────────────
+ ✅  Supervised ML                        🎯  MLOps & Deployment
+ ✅  RAG Systems & Vector DBs             🎯  LLM Fine-tuning (QLoRA)
+ ✅  Agentic AI (LangGraph)              🎯  Model Serving at Scale
+ 🔄  Deep Learning & CNNs                🎯  AI Research & Publishing
+ 🔄  NLP & Transformers                  🎯  Open Source Contributions
+ 🔄  Generative AI & Prompting           🎯  FAANG / Top AI Lab Internship
+```
 
 <br/>
 
 ---
 
-<br/>
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                     CREDENTIALS                            -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<sub><code>// 03 — TECH STACK</code></sub>
-</div>
+
+### `{ credentials }`
 
 <br/>
 
-**Core — Daily Use**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=013243)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat&logo=scikit-learn&logoColor=F7931E)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat&logo=python&logoColor=11557c)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat&logo=jupyter&logoColor=F37626)
-![Google Colab](https://img.shields.io/badge/Colab-0d1117?style=flat&logo=googlecolab&logoColor=F9AB00)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=e6edf3)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat&logo=postgresql&logoColor=4479A1)
-
-**AI Engineering — Building**
-
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat&logo=langchain&logoColor=1C3C3C)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat&logo=python&logoColor=7b6cf0)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat&logo=python&logoColor=4fa88e)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=flat&logo=openai&logoColor=412991)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=009688)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat&logo=streamlit&logoColor=FF4B4B)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED)
-
-**Learning — In Progress**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=EE4C2C)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat&logo=opencv&logoColor=5C3EE8)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat&logo=huggingface&logoColor=FFD21E)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-0d1117?style=flat&logo=googlecloud&logoColor=4285F4)
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-<sub><code>// 04 — CREDENTIALS</code></sub>
-</div>
-
-<br/>
-
-**Internship & Industry**
-
-| &nbsp; | Organization | Program | Category |
-|:---|:---|:---|:---|
-| 🏭 | Cognifyz Technologies | **Machine Learning Internship** | `Internship` |
+| | Organization | Program | Domain |
+|:---:|---|---|:---:|
+| 🏭 | **Cognifyz Technologies** | Machine Learning Internship | `Internship` |
 | 🎓 | SWAYAM Plus · NPTEL | Prompt Engineering for LLMs | `AI / LLMs` |
 | ☁️ | Google Cloud Skills Boost | Prompt Design in Vertex AI | `Cloud AI` |
+| 🔬 | BCG X · Forage | Generative AI Virtual Experience | `GenAI` |
+| 🔬 | BCG X · Forage | Data Science Virtual Experience | `ML` |
+| 🌀 | Tata Group · Forage | Gen AI-Powered Analytics | `Analytics` |
+| 🏦 | JPMorgan Chase · Forage | Quantitative Research Programme | `Quant` |
+| 📊 | Quantium · Forage | Retail Strategy & Analytics | `Analytics` |
+| ✈️ | British Airways · Forage | Data Science Virtual Experience | `Predictive ML` |
+| 🏛️ | Lloyds Banking Group · Forage | Data Science Virtual Experience | `Churn ML` |
+| 💼 | Deloitte · Forage | Data Analytics Virtual Experience | `Forensic` |
+| 🌏 | Commonwealth Bank · Forage | Introduction to Data Science | `EDA` |
 
-**Forage Virtual Experience Programs**
-
-| &nbsp; | Organization | Program | Track |
-|:---|:---|:---|:---|
-| 🔬 | BCG X | Generative AI Virtual Experience | `GenAI` |
-| 🔬 | BCG X | Data Science Virtual Experience | `ML Pipelines` |
-| 🌀 | Tata Group | Gen AI-Powered Analytics | `AI Analytics` |
-| 🏦 | JPMorgan Chase | Quantitative Research Programme | `Quant` |
-| 📊 | Quantium | Retail Strategy & Analytics | `Analytics` |
-| ✈️ | British Airways | Data Science Virtual Experience | `Predictive ML` |
-| 🏛️ | Lloyds Banking Group | Data Science Virtual Experience | `Churn ML` |
-| 💼 | Deloitte | Data Analytics Virtual Experience | `Forensic` |
-| 🌏 | Commonwealth Bank | Introduction to Data Science | `EDA` |
+</div>
 
 <br/>
 
 ---
 
-<br/>
-
-<div align="center">
-<sub><code>// 05 — GITHUB STATISTICS</code></sub>
-</div>
-
-<br/>
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    CONTACT SECTION                         -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbhishekGrover1&show_icons=true&bg_color=0d0d17&border_color=1e1e2e&title_color=7b6cf0&icon_color=4fa88e&text_color=c9d1d9&hide_border=false&rank_icon=github&hide=contribs&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGrover1&layout=compact&bg_color=0d0d17&border_color=1e1e2e&title_color=7b6cf0&text_color=c9d1d9&hide_border=false&langs_count=6" />
+### `{ let's_build }`
+
+<br/>
+
+If you're building with RAG, agents, or ML pipelines — I want to contribute.<br/>
+Open to internships, entry-level roles, and open-source collaborations.
+
+<br/>
+
+<a href="https://abhishekgroverai.netlify.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-abhishekgroverai.netlify.app-7b6cf0?style=for-the-badge&labelColor=13102a" height="32"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AbhishekGrover1&background=0d0d17&border=1e1e2e&stroke=7b6cf0&ring=7b6cf0&fire=4fa88e&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=3e3e56&sideNums=c9d1d9&currStreakNum=c9d1d9&hide_border=false" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-<sub><code>// 06 — LEARNING ROADMAP</code></sub>
-</div>
-
-<br/>
-
-```
-  2026 — BUILDING FOUNDATIONS              2027 — SCALING TO PRODUCTION
-  ──────────────────────────────────       ──────────────────────────────────
-  ✅  Supervised Machine Learning          🎯  MLOps & Production Pipelines
-  ✅  RAG Systems & Vector DBs             🎯  Large Language Models (fine-tuning)
-  ✅  Agentic Workflows (LangGraph)        🎯  Model Deployment at Scale
-  🔄  Deep Learning (CNNs, RNNs)          🎯  LLMOps & Experiment Tracking
-  🔄  Computer Vision (OpenCV, YOLO)      🎯  AI Research & Experimentation
-  🔄  NLP Foundations & Transformers      🎯  Open Source Contributions
-  🔄  Generative AI & Prompt Engineering  🎯  FAANG / Top AI Lab Internship
-```
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-<sub><code>// 07 — CONNECT</code></sub>
-</div>
-
-<br/>
-
-<div align="center">
-
-Actively seeking **AI/ML internships**, entry-level roles in **AI Engineering**, and open-source collaborations.<br/>
-If you're building with RAG, agents, or ML pipelines — I'd like to contribute and learn.
-
-<br/>
-
-[![Email](https://img.shields.io/badge/ss107456@gmail.com-0d1117?style=flat&logo=gmail&logoColor=7b6cf0&labelColor=0f0f1a&color=1a1a2e)](mailto:ss107456@gmail.com)
+<a href="mailto:ss107456@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ss107456%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0000" height="28"/>
+</a>
 &nbsp;
-[![GitHub](https://img.shields.io/badge/AbhishekGrover1-0d1117?style=flat&logo=github&logoColor=c9d1d9&labelColor=161b22&color=21262d)](https://github.com/AbhishekGrover1)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/abhishek--grover-0d1117?style=flat&logo=linkedin&logoColor=5aadff&labelColor=0a1628&color=0d2137)](https://www.linkedin.com/in/abhishek-grover-199884295/)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/abh1shekgrover-0d1117?style=flat&logo=instagram&logoColor=f093cc&labelColor=1a0a14&color=2a0d1e)](https://www.instagram.com/abh1shekgrover)
+<a href="https://www.linkedin.com/in/abhishek-grover-199884295/">
+  <img src="https://img.shields.io/badge/LinkedIn-abhishek--grover-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=061a2e" height="28"/>
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7b6cf0&height=80&section=footer&reversal=true&fontColor=c9d1d9&fontSize=11&fontAlignY=55&text=github.com/AbhishekGrover1%20%C2%B7%20New%20Delhi%2C%20India%20%C2%B7%20%C2%A9%202026" width="100%"/>
+<a href="https://github.com/AbhishekGrover1">
+  <img src="https://img.shields.io/badge/GitHub-AbhishekGrover1-c9d1d9?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" height="28"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/abh1shekgrover">
+  <img src="https://img.shields.io/badge/Instagram-abh1shekgrover-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0a14" height="28"/>
+</a>
 
 </div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    PREMIUM FOOTER                          -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<br/>
+
+![Visitor Count](https://profile-counter.glitch.me/AbhishekGrover1/count.svg)
+
+<br/>
+
+<sub>
+  <img src="https://img.shields.io/badge/AIMING%20FOR-100K%20VIEWS-7b6cf0?style=flat-square&labelColor=0d0d17&color=13102a"/>
+</sub>
+
+<br/><br/>
+
+<sub>Built with ❤️ by <strong>Abhishek Grover</strong> &nbsp;·&nbsp; AI / ML Engineer &nbsp;·&nbsp; New Delhi, India</sub>
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:13102a,100:0a1a0d&height=120&section=footer&text=github.com%2FAbhishekGrover1&fontColor=555566&fontSize=12&fontAlignY=70" width="100%"/>
