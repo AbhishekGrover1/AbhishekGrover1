@@ -46,7 +46,7 @@ class AbhishekGrover:
     location   = "New Delhi, India"
     degree     = "BCA · Semester 5 of 6 · Amity University Online"
     grad_year  = 2027
-    experience = ["ML Intern @ Cognifyz Technologies (2024)"]
+    experience = ["ML Intern @ Cognifyz Technologies (2026)"]
     focus      = ["RAG Systems", "Multi-Agent AI", "Production ML Pipelines"]
     stack      = ["Python", "LangChain", "LangGraph", "ChromaDB", "FastAPI", "Docker"]
     learning   = ["Vertex AI", "CrewAI", "AutoGen", "Pinecone", "MLflow"]
