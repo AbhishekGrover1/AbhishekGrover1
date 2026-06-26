@@ -61,7 +61,7 @@ I'm learning AI engineering by shipping real projects — RAG pipelines, LangGra
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cognifyz%20Technologies-ML%20Internship%20%C2%B7%202024-4fa88e?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Cognifyz%20Technologies-ML%20Internship%20%C2%B7%202026-4fa88e?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
