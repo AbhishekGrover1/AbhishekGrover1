@@ -1,67 +1,66 @@
 <div align="center">
 
 <!-- ANIMATED HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b6cf0,50:4fa88e,100:0d0d17&height=200&section=header&text=Abhishek%20Grover&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20New%20Delhi%2C%20India&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F1F,50:FF8C00,100:0d0d17&height=200&section=header&text=Abhishek%20Grover&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20New%20Delhi%2C%20India&descAlignY=58&descSize=18&animation=fadein" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/AbhishekGrover1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=7B6CF0&center=true&vCenter=true&multiline=false&width=600&lines=Building+RAG+systems+%26+multi-agent+pipelines;ML+Intern+%40+Cognifyz+Technologies+%E2%80%94+2026;LangChain+%C2%B7+LangGraph+%C2%B7+ChromaDB+%C2%B7+FastAPI;BCA+Student+%40+Amity+University+%E2%80%94+2027;Open+to+AI+%2F+ML+Engineering+Internships" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=FF8C00&center=true&vCenter=true&multiline=false&width=600&lines=Building+RAG+systems+%26+multi-agent+pipelines;ML+Intern+%40+Cognifyz+Technologies+%E2%80%94+2026;LangChain+%C2%B7+LangGraph+%C2%B7+ChromaDB+%C2%B7+FastAPI;BCA+Student+%40+Amity+University+%E2%80%94+2027;Open+to+AI+%2F+ML+Engineering+Internships" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <!-- STATUS BADGES -->
 <a href="https://github.com/AbhishekGrover1">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-4fa88e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-FFFFFF?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/abhishek-grover-199884295/">
-  <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Grover-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+<a href="https://www.linkedin.com/in/abhishek-grover07">
+  <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Grover-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="mailto:ss107456@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ss107456%40gmail.com-7b6cf0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Email-ss107456%40gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://abhishekgroverai.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-abhishekgroverai.netlify.app-4fa88e?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Portfolio-abhishekgroverai.netlify.app-FFFFFF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117"/>
 </a>
 
 <br/><br/>
 
 <!-- PROFILE VIEWS + GITHUB FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=AbhishekGrover1&style=for-the-badge&color=7b6cf0&labelColor=0d1117&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=AbhishekGrover1&style=for-the-badge&color=0D1117&labelColor=0d1117&label=PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/AbhishekGrover1?style=for-the-badge&color=4fa88e&labelColor=0d1117&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/AbhishekGrover1?style=for-the-badge&color=FFFFFF&labelColor=0d1117&label=FOLLOWERS"/>
 
 </div>
 
 ---
 
-## `// About`
+##  About
 
 ```python
 class AbhishekGrover:
-    name       = "Abhishek Grover"
-    location   = "New Delhi, India"
-    degree     = "BCA · Semester 5 of 6 · Amity University Online"
-    grad_year  = 2027
-    experience = ["ML Intern @ Cognifyz Technologies (2026)"]
-    focus      = ["RAG Systems", "Multi-Agent AI", "Production ML Pipelines"]
-    stack      = ["Python", "LangChain", "LangGraph", "ChromaDB", "FastAPI", "Docker"]
-    learning   = ["Vertex AI", "CrewAI", "AutoGen", "Pinecone", "MLflow"]
-    open_to    = "AI / ML Engineering Internships & Entry-Level Roles"
+    name       =  Abhishek Grover
+    location   =  New Delhi , India
+    degree     =  Bachelor Of Computer Application·  Amity University Online
+    experience =  Ml Intern @ Cognifyz technologies 
+    focus      =  Rag Systems  MultiAgent Ai Production Ml Pipelines
+    stack      =  Python  LangChain, LangGraph,ChromaDB  FastAPI Docker
+    learning   =  Vertex Ai CrewAI  AutoGen  Pinecone  MLflow
+    open_to    =  Al  Ml Engineering Internships And Entry Level Roles
 ```
 
 I'm learning AI engineering by shipping real projects — RAG pipelines, LangGraph agents, and supervised ML models. My goal is to contribute to production AI systems at scale.
 
 ---
 
-## `// Machine Learning Internship 
+##  Machine Learning Internship 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cognifyz%20Technologies-ML%20Internship%20%C2%B7%202026-4fa88e?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Cognifyz%20Technologies-ML%20Internship%20%C2%B7%202026-FFFFFF?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
@@ -123,13 +122,13 @@ Full geographical analysis across 141 cities and 9,052 valid GPS coordinates. Vi
 
 ---
 
-## `// personal projects`
+## Personal Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 · University Notes RAG System
+###  University Notes RAG System
 Document Q&A for study material. PDFs chunked with `RecursiveCharacterTextSplitter`, embedded via `text-embedding-3-small`, stored in ChromaDB. Citation-aware GPT prompts. Streamlit drag-and-drop frontend.
 
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink&logoColor=white)
@@ -140,7 +139,7 @@ Document Q&A for study material. PDFs chunked with `RecursiveCharacterTextSplitt
 </td>
 <td width="50%" valign="top">
 
-### 02 · Multi-Agent Research Assistant
+###  Multi-Agent Research Assistant
 LangGraph-orchestrated agent graph: planner → researcher → writer → validator. Typed state dictionary manages inter-agent communication. FastAPI REST interface, Docker containerised.
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-7b6cf0?style=flat-square)
@@ -153,7 +152,7 @@ LangGraph-orchestrated agent graph: planner → researcher → writer → valida
 <tr>
 <td width="50%" valign="top">
 
-### 03 · AI Resume Analyzer
+###  AI Resume Analyzer
 Resume PDF + JD → TF-IDF keyword matching + spaCy skill-gap analysis + OpenAI improvement suggestions + ATS compatibility score. Scored breakdown across resume sections.
 
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
@@ -163,7 +162,7 @@ Resume PDF + JD → TF-IDF keyword matching + spaCy skill-gap analysis + OpenAI 
 </td>
 <td width="50%" valign="top">
 
-### 04 · Financial Fraud Detection
+###  Financial Fraud Detection
 Kaggle Credit Card Fraud (0.17% fraud rate). SMOTE oversampling · Logistic Regression, Random Forest, XGBoost benchmarked. **XGBoost: 0.91 PR-AUC** on held-out test set.
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-4fa88e?style=flat-square)
@@ -176,7 +175,7 @@ Kaggle Credit Card Fraud (0.17% fraud rate). SMOTE oversampling · Logistic Regr
 
 ---
 
-## `// stack`
+## Stack
 
 <div align="center">
 
@@ -225,23 +224,23 @@ Kaggle Credit Card Fraud (0.17% fraud rate). SMOTE oversampling · Logistic Regr
 
 ---
 
-## `// github analytics`
+## Github Analytics
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=AbhishekGrover1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d17&title_color=7b6cf0&icon_color=4fa88e&text_color=c4c4d4&ring_color=7b6cf0&count_private=true"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=AbhishekGrover1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d17&title_color=FF6A00&icon_color=4fa88e&text_color=c4c4d4&ring_color=FF6A00&count_private=true"/>
 &nbsp;
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGrover1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d17&title_color=7b6cf0&text_color=c4c4d4&langs_count=6"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGrover1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d17&title_color=FF6A00&text_color=c4c4d4&langs_count=6"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekGrover1&theme=github-dark-blue&hide_border=true&background=0d0d17&stroke=7b6cf0&ring=7b6cf0&fire=4fa88e&currStreakLabel=c4c4d4&sideLabels=c4c4d4&dates=7a7a90" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekGrover1&theme=github-dark-blue&hide_border=true&background=0d0d17&stroke=FF6A000&ring=FF6A00&fire=4fa88e&currStreakLabel=c4c4d4&sideLabels=c4c4d4&dates=7a7a90" width="55%"/>
 
 </div>
 
 ---
 
-## `// credentials`
+## Credentials
 
 | | Organization | Credential |
 |---|---|---|
@@ -260,24 +259,24 @@ Kaggle Credit Card Fraud (0.17% fraud rate). SMOTE oversampling · Logistic Regr
 
 ---
 
-## `// connect`
+##  Connect
 
 <div align="center">
 
 <a href="https://github.com/AbhishekGrover1">
-  <img src="https://img.shields.io/badge/GitHub-AbhishekGrover1-e6edf3?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-AbhishekGrover1-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/abhishek-grover-199884295/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+<a href="https://www.linkedin.com/in/abhishek-grover-07/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/abh1shekgrover">
-  <img src="https://img.shields.io/badge/Instagram-@abh1shekgrover-bc1888?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Instagram-@abh1shekgrover-FFFFFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="mailto:ss107456@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ss107456@gmail.com-7b6cf0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Email-ss107456@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
 
 <br/><br/>
@@ -288,6 +287,6 @@ If you're building with RAG, agents, or ML pipelines — I'd be glad to contribu
 <br/>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d17,50:4fa88e,100:7b6cf0&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d17,50:FF6A00,100:7b6cf0&height=100&section=footer" width="100%"/>
 
 </div>
