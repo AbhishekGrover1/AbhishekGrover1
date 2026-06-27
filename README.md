@@ -38,7 +38,7 @@
 
 ---
 
-## `// about`
+## `// About`
 
 ```python
 class AbhishekGrover:
@@ -57,7 +57,7 @@ I'm learning AI engineering by shipping real projects — RAG pipelines, LangGra
 
 ---
 
-## `// ml internship — cognifyz technologies`
+## `// Machine Learning Internship 
 
 <div align="center">
 
