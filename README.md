@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/AbhishekGrover1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=7B6CF0&center=true&vCenter=true&multiline=false&width=600&lines=Building+RAG+systems+%26+multi-agent+pipelines;ML+Intern+%40+Cognifyz+Technologies+%E2%80%94+2024;LangChain+%C2%B7+LangGraph+%C2%B7+ChromaDB+%C2%B7+FastAPI;BCA+Student+%40+Amity+University+%E2%80%94+2027;Open+to+AI+%2F+ML+Engineering+Internships" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=7B6CF0&center=true&vCenter=true&multiline=false&width=600&lines=Building+RAG+systems+%26+multi-agent+pipelines;ML+Intern+%40+Cognifyz+Technologies+%E2%80%94+2026;LangChain+%C2%B7+LangGraph+%C2%B7+ChromaDB+%C2%B7+FastAPI;BCA+Student+%40+Amity+University+%E2%80%94+2027;Open+to+AI+%2F+ML+Engineering+Internships" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -71,7 +71,7 @@ Three end-to-end ML projects on a real restaurant dataset of **9,551 records** �
 |------|---------|-----------|
 | **Task 1** | Smart Restaurant Rating Predictor | Gradient Boosting · **R² = 0.6246** on held-out test data |
 | **Task 2** | Personalized Recommendation Engine | Content-based filtering across **141 cities, 1,825+ cuisines** |
-| **Task 4** | Geo Analytics of Restaurant Data | **8 visualizations** · 9,052 valid GPS coordinates |
+| **Task 3** | Geo Analytics of Restaurant Data | **8 visualizations** · 9,052 valid GPS coordinates |
 
 **Stack:** Python · Scikit-learn · Pandas · NumPy · Matplotlib · Gradient Boosting
 
@@ -107,7 +107,7 @@ Content-based filtering with weighted scoring across 4 criteria: cuisine match (
 </details>
 
 <details>
-<summary><b>→ Task 4 · Geo Analytics — details</b></summary>
+<summary><b>→ Task 3 · Geo Analytics — details</b></summary>
 
 <br/>
 
