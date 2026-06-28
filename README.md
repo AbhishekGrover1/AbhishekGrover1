@@ -39,7 +39,7 @@
 
 <div align="center">
 
-## ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ɪɴᴛᴇʀɴꜱʜɪᴘ
+## 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑰𝒏𝒕𝒆𝒓𝒏𝒔𝒉𝒊𝒑
 
 <img src="https://img.shields.io/badge/Cognifyz%20Technologies-ML%20Internship%20%C2%B7%202026-ffffff?style=for-the-badge&logo=python&logoColor=000000&labelColor=1f1f1f&color=ffffff"/>
 
@@ -107,7 +107,8 @@ Full geographical analysis across 141 cities and 9,052 valid GPS coordinates. Vi
 
 <div align="center">
 
-## ᴘᴇʀꜱᴏɴᴀʟ ᴘʀᴏᴊᴇᴄᴛꜱ
+## **𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔**
+
 
 </div>
 
@@ -170,7 +171,8 @@ Kaggle Credit Card Fraud (0.17% fraud rate). SMOTE oversampling · Logistic Regr
 
 <div align="center">
 
-## ꜱᴛᴀᴄᴋ
+## **𝑺𝒕𝒂𝒄𝒌**
+
 
 **Programming & Core**
 
@@ -221,7 +223,8 @@ Kaggle Credit Card Fraud (0.17% fraud rate). SMOTE oversampling · Logistic Regr
 
 <div align="center">
 
-## ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄꜱ
+## **𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔**
+
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AbhishekGrover1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d17&title_color=ffffff&icon_color=cfcfcf&text_color=c4c4d4&ring_color=ffffff&count_private=true"/>
 &nbsp;
@@ -249,7 +252,8 @@ Kaggle Credit Card Fraud (0.17% fraud rate). SMOTE oversampling · Logistic Regr
 
 <div align="center">
 
-## ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴘʀᴏꜰɪʟᴇꜱ
+## **𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝑷𝒓𝒐𝒇𝒊𝒍𝒆𝒔**
+
 
 <a href="https://github.com/AbhishekGrover1">
   <img src="https://img.shields.io/badge/GitHub-AbhishekGrover1-ffffff?style=flat&logo=github&logoColor=000000&labelColor=1f1f1f&color=ffffff"/>
@@ -287,11 +291,10 @@ Kaggle Credit Card Fraud (0.17% fraud rate). SMOTE oversampling · Logistic Regr
 
 <div align="center">
 
-## ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴄᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴꜱ
+## **𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔**
+
 
 </div>
-
-**☁️ Google**
 
 | Credential | Issuer |
 |------------|--------|
@@ -300,8 +303,6 @@ Kaggle Credit Card Fraud (0.17% fraud rate). SMOTE oversampling · Logistic Regr
 | [Prompt Design in Vertex AI Skill Badge](https://www.credly.com/badges/157ca3a4-787b-41e0-926d-3618faf62cd3/linked_in_profile) | Google Cloud |
 
 <br/>
-
-**🤖 Anthropic / Claude**
 
 | Credential | Issuer |
 |------------|--------|
@@ -324,8 +325,6 @@ Kaggle Credit Card Fraud (0.17% fraud rate). SMOTE oversampling · Logistic Regr
 | [Claude Code in Action](https://verify.skilljar.com/c/ehspatwc2x3z) | Anthropic |
 
 <br/>
-
-**🏭 Forage Virtual Experience Programs**
 
 | Credential | Company |
 |------------|---------|
