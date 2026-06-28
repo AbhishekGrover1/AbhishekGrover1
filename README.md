@@ -27,23 +27,11 @@
 
 <div align="center">
 
-## ᴀʙᴏᴜᴛ
 
-</div>
+# 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃! 👋
 
-```python
-class AbhishekGrover:
-    name       = "Abhishek Grover"
-    location   = "New Delhi, India"
-    degree     = "Bachelor of Computer Application · Amity University Online"
-    experience = "ML Intern @ Cognifyz Technologies"
-    focus      = ["RAG Systems", "Multi-Agent AI", "Production ML Pipelines"]
-    stack      = ["Python", "LangChain", "LangGraph", "ChromaDB", "FastAPI", "Docker"]
-    learning   = ["Vertex AI", "CrewAI", "AutoGen", "Pinecone", "MLflow"]
-    open_to    = "AI / ML Engineering Internships and Entry-Level Roles"
-```
+𝑰'𝒎 **𝑨𝒃𝒉𝒊𝒔𝒉𝒆𝒌 𝑮𝒓𝒐𝒗𝒆𝒓**, 𝒂 **𝑩𝒂𝒄𝒉𝒆𝒍𝒐𝒓 𝒐𝒇 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 (𝑩𝑪𝑨)** 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒂𝒕 **𝑨𝒎𝒊𝒕𝒚 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 𝑶𝒏𝒍𝒊𝒏𝒆** 𝒘𝒊𝒕𝒉 𝒂 𝒔𝒕𝒓𝒐𝒏𝒈 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 **𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆** 𝒂𝒏𝒅 **𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈**. 𝑻𝒉𝒊𝒔 𝑮𝒊𝒕𝑯𝒖𝒃 𝒔𝒆𝒓𝒗𝒆𝒔 𝒂𝒔 𝒂 𝒑𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐 𝒐𝒇 𝒎𝒚 𝒕𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝒋𝒐𝒖𝒓𝒏𝒆𝒚, 𝒘𝒉𝒆𝒓𝒆 𝑰 𝒔𝒉𝒂𝒓𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔, 𝒆𝒙𝒑𝒆𝒓𝒊𝒎𝒆𝒏𝒕𝒔, 𝒂𝒏𝒅 𝒄𝒐𝒏𝒕𝒊𝒏𝒖𝒐𝒖𝒔 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒊𝒏 **𝑨𝑰, 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑳𝒂𝒓𝒈𝒆 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝑴𝒐𝒅𝒆𝒍𝒔 (𝑳𝑳𝑴𝒔)**, 𝒂𝒏𝒅 𝒎𝒐𝒅𝒆𝒓𝒏 𝑨𝑰 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔. 𝑰 𝒂𝒎 𝒄𝒐𝒎𝒎𝒊𝒕𝒕𝒆𝒅 𝒕𝒐 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒑𝒓𝒂𝒄𝒕𝒊𝒄𝒂𝒍, 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆, 𝒂𝒏𝒅 𝒊𝒎𝒑𝒂𝒄𝒕𝒇𝒖𝒍 𝑨𝑰 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒘𝒉𝒊𝒍𝒆 𝒄𝒐𝒏𝒕𝒊𝒏𝒖𝒐𝒖𝒔𝒍𝒚 𝒆𝒙𝒑𝒂𝒏𝒅𝒊𝒏𝒈 𝒎𝒚 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒉𝒂𝒏𝒅𝒔-𝒐𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕, 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚 𝒄𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔, 𝒂𝒏𝒅 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏. 𝑴𝒚 𝒐𝒃𝒋𝒆𝒄𝒕𝒊𝒗𝒆 𝒊𝒔 𝒕𝒐 𝒍𝒆𝒗𝒆𝒓𝒂𝒈𝒆 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒕𝒐 𝒔𝒐𝒍𝒗𝒆 𝒓𝒆𝒂𝒍-𝒘𝒐𝒓𝒍𝒅 𝒄𝒉𝒂𝒍𝒍𝒆𝒏𝒈𝒆𝒔 𝒂𝒏𝒅 𝒈𝒓𝒐𝒘 𝒊𝒏𝒕𝒐 𝒂 𝒔𝒌𝒊𝒍𝒍𝒆𝒅 **𝑨𝑰 & 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓**.
 
-I'm learning AI engineering by shipping real projects — RAG pipelines, LangGraph agents, and supervised ML models. My goal is to contribute to production AI systems at scale.
 
 <br/>
 
@@ -358,8 +346,8 @@ Kaggle Credit Card Fraud (0.17% fraud rate). SMOTE oversampling · Logistic Regr
 
 <div align="center">
 
-Actively seeking internships and entry-level roles in **AI Engineering, ML Engineering, and applied GenAI.**  
-If you're building with RAG, agents, or ML pipelines — I'd be glad to contribute.
+**𝑨𝒄𝒕𝒊𝒗𝒆𝒍𝒚 𝒔𝒆𝒆𝒌𝒊𝒏𝒈 𝒊𝒏𝒕𝒆𝒓𝒏𝒔𝒉𝒊𝒑𝒔 𝒂𝒏𝒅 𝒆𝒏𝒕𝒓𝒚-𝒍𝒆𝒗𝒆𝒍 𝒐𝒑𝒑𝒐𝒓𝒕𝒖𝒏𝒊𝒕𝒊𝒆𝒔 𝒊𝒏 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆, 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒏𝒅 𝑮𝒆𝒏𝒆𝒓𝒂𝒕𝒊𝒗𝒆 𝑨𝑰. 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒊𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒕, 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆, 𝒂𝒏𝒅 𝒓𝒆𝒂𝒍-𝒘𝒐𝒓𝒍𝒅 𝑨𝑰 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔, 𝒘𝒉𝒊𝒍𝒆 𝒄𝒐𝒏𝒕𝒊𝒏𝒖𝒐𝒖𝒔𝒍𝒚 𝒈𝒓𝒐𝒘𝒊𝒏𝒈 𝒂𝒔 𝒂𝒏 𝑨𝑰 & 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓.**
+
 
 <br/>
 
