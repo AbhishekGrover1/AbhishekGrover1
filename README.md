@@ -31,35 +31,55 @@ Beyond building models, I value clean architecture, real-world impact, and pract
 
 <br>
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />Tech Stack:
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="24" /> Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-2a2a2a?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-3d3d3d?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-2a2a2a?style=for-the-badge&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/python-A5D8FF?style=flat-square&logo=python&logoColor=0b3d5c)
+![SQL](https://img.shields.io/badge/SQL-B2F2BB?style=flat-square&logo=postgresql&logoColor=1a4d2e)
+![Git](https://img.shields.io/badge/git-FFC9C9?style=flat-square&logo=git&logoColor=7d1a1a)
+![GitHub](https://img.shields.io/badge/github-D0BFFF?style=flat-square&logo=github&logoColor=3b1d63)
+![Jupyter](https://img.shields.io/badge/Jupyter-FFE066?style=flat-square&logo=jupyter&logoColor=6b4e00)
+![LangChain](https://img.shields.io/badge/LangChain-96F2D7?style=flat-square&logo=chainlink&logoColor=0b4d3a)
+![LangGraph](https://img.shields.io/badge/LangGraph-FFD8A8?style=flat-square&logoColor=7a4200)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-EEBEFA?style=flat-square&logoColor=5c136b)
+![OpenAI](https://img.shields.io/badge/OpenAI-A5D8FF?style=flat-square&logo=openai&logoColor=0b3d5c)
+![FastAPI](https://img.shields.io/badge/FastAPI-B2F2BB?style=flat-square&logo=fastapi&logoColor=1a4d2e)
+![Streamlit](https://img.shields.io/badge/Streamlit-FFC9C9?style=flat-square&logo=streamlit&logoColor=7d1a1a)
+![Docker](https://img.shields.io/badge/Docker-A5D8FF?style=flat-square&logo=docker&logoColor=0b3d5c)
+![Pandas](https://img.shields.io/badge/Pandas-D0BFFF?style=flat-square&logo=pandas&logoColor=3b1d63)
+![NumPy](https://img.shields.io/badge/NumPy-A5D8FF?style=flat-square&logo=numpy&logoColor=0b3d5c)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFD8A8?style=flat-square&logo=scikit-learn&logoColor=7a4200)
+![XGBoost](https://img.shields.io/badge/XGBoost-FFE066?style=flat-square&logoColor=6b4e00)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-B2F2BB?style=flat-square&logoColor=1a4d2e)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFE066?style=flat-square&logo=huggingface&logoColor=6b4e00)
+![MLflow](https://img.shields.io/badge/MLflow-96F2D7?style=flat-square&logo=mlflow&logoColor=0b4d3a)
+![Google Cloud](https://img.shields.io/badge/Vertex%20AI-A5D8FF?style=flat-square&logo=googlecloud&logoColor=0b3d5c)
+![spaCy](https://img.shields.io/badge/spaCy-EEBEFA?style=flat-square&logo=spacy&logoColor=5c136b)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-D0BFFF?style=flat-square&logo=githubactions&logoColor=3b1d63)
+![Postman](https://img.shields.io/badge/Postman-FFC9C9?style=flat-square&logo=postman&logoColor=7d1a1a)
+![Flask](https://img.shields.io/badge/Flask-B2F2BB?style=flat-square&logo=flask&logoColor=1a4d2e)
+![Linux](https://img.shields.io/badge/Linux-FFD8A8?style=flat-square&logo=linux&logoColor=7a4200)
+![VS Code](https://img.shields.io/badge/VS%20Code-A5D8FF?style=flat-square&logo=visualstudiocode&logoColor=0b3d5c)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D0BFFF?style=flat-square&logo=postgresql&logoColor=3b1d63)
+![MongoDB](https://img.shields.io/badge/MongoDB-B2F2BB?style=flat-square&logo=mongodb&logoColor=1a4d2e)
+![Redis](https://img.shields.io/badge/Redis-FFC9C9?style=flat-square&logo=redis&logoColor=7d1a1a)
+![FAISS](https://img.shields.io/badge/FAISS-EEBEFA?style=flat-square&logoColor=5c136b)
+![Pinecone](https://img.shields.io/badge/Pinecone-96F2D7?style=flat-square&logoColor=0b4d3a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-A5D8FF?style=flat-square&logo=kubernetes&logoColor=0b3d5c)
+![Terraform](https://img.shields.io/badge/Terraform-D0BFFF?style=flat-square&logo=terraform&logoColor=3b1d63)
+![Redux](https://img.shields.io/badge/Ollama-FFD8A8?style=flat-square&logo=ollama&logoColor=7a4200)
+![Anthropic](https://img.shields.io/badge/Anthropic-FFE066?style=flat-square&logoColor=6b4e00)
+![CrewAI](https://img.shields.io/badge/CrewAI-B2F2BB?style=flat-square&logoColor=1a4d2e)
+![Ray](https://img.shields.io/badge/Ray-A5D8FF?style=flat-square&logo=ray&logoColor=0b3d5c)
+![Weights & Biases](https://img.shields.io/badge/W%26B-EEBEFA?style=flat-square&logo=weightsandbiases&logoColor=5c136b)
+![NGINX](https://img.shields.io/badge/NGINX-96F2D7?style=flat-square&logo=nginx&logoColor=0b4d3a)
+![Figma](https://img.shields.io/badge/Figma-FFC9C9?style=flat-square&logo=figma&logoColor=7d1a1a)
 
 <br/>
 
-## 📊 GitHub Stats
+
+
+
+## 📊 GitHub Stats :
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhishekGrover1&theme=gruvbox" alt="Top Languages" />
