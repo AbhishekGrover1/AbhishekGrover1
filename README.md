@@ -14,7 +14,7 @@ Beyond building models, I value clean architecture, real-world impact, and pract
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" style="margin-top: 400px;"/>
 
-- 🔭 **I'm currently completing my ML Internship at Cognifyz Technologies;**
+- 🔭 **Completed ML Internship at Cognifyz Technologies;**
 - 🌱 **I'm currently learning LangGraph, CrewAI, and MLflow;**
 - 👯 **I'm looking for open source AI/ML collaboration;**
 - 💬 **Ask me about RAG systems, LLMs, and ML pipelines;**
