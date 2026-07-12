@@ -3,7 +3,7 @@
   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1.6K%20Followers-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
-[![Profile Views](https://img.shields.io/badge/Profile_Views-16K-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
+[![Profile Views](https://img.shields.io/badge/Profile_Views-55K-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
 [![Open to Internship](https://img.shields.io/badge/Open_to-Internship-success)](ss107456@gmail.com)
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> <br>
 
