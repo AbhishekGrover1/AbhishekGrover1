@@ -3,7 +3,7 @@
   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1.6K%20Followers-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
-[![Profile Views](https://img.shields.io/badge/Profile_Views-55K-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
+[![Profile Views](https://img.shields.io/badge/Profile_Views-100K-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
 [![Open to Internship](https://img.shields.io/badge/Open_to-Internship-success)](ss107456@gmail.com)
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> <br>
 
@@ -15,7 +15,7 @@ Beyond building models, I value clean architecture, real-world impact, and pract
 
 **Talking about Personal Stuffs:** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" style="margin-top: 400px;"/>
+<img align="right" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Purple Coder GIF"/>
 
 - 🔭 **Completed ML Internship at Cognifyz Technologies;**
 - 🌱 **I'm currently learning LangGraph, CrewAI, and MLflow;**
