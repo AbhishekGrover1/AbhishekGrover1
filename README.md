@@ -3,7 +3,6 @@
   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1.6K%20Followers-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
-[![Profile Views](https://img.shields.io/badge/Profile_Views-100K-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
 [![Open to Internship](https://img.shields.io/badge/Open_to-Internship-success)](mailto:ss107456@gmail.com)
 [![Google Skills](https://img.shields.io/badge/Google%20Skills-Profile-4285F4?logo=google&logoColor=white)](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c)
 
