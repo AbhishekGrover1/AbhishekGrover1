@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+AbhishekGrover!;AI+Engineer+%7C+Agents+%26+RAG;Building+smarter+agents" alt="Typing animation" /></div>
   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1.8K%20Followers-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1.9K%20Followers-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
 [![Open to Internship](https://img.shields.io/badge/Open_to-Internship-success)](mailto:ss107456@gmail.com)
 [![Google Skills](https://img.shields.io/badge/Google%20Skills-Profile-4285F4?logo=google&logoColor=white)](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c)
 
