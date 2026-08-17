@@ -17,7 +17,7 @@ Beyond building models, I value clean architecture, real-world impact, and pract
 **Talking about Personal Stuffs:** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 <img align="right" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Developer"/>
-
+     
 
 - 🔭 **Completed ML Internship at Cognifyz Technologies;**
 - 🌱 **I'm currently learning LangGraph, CrewAI, and MLflow;**
