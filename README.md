@@ -13,7 +13,7 @@
 I'm an AI / ML Engineer specializing in RAG systems and multi-agent pipelines with hands-on experience building intelligent applications using LangChain, LangGraph, FastAPI, and Python.
 
 Beyond building models, I value clean architecture, real-world impact, and practical problem-solving. I enjoy turning complex AI requirements into scalable and production-ready solutions.
-
+  
 **Talking about Personal Stuffs:** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 <img align="right" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Developer"/>
