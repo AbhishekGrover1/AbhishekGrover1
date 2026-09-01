@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2K%20Followers-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
 [![Open to Internship](https://img.shields.io/badge/Open_to-Internship-success)](mailto:ss107456@gmail.com)
 [![Google Skills](https://img.shields.io/badge/Google%20Skills-Profile-4285F4?logo=google&logoColor=white)](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c)
+[![Email](https://img.shields.io/badge/Email-ss107456%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:ss107456@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> <br>
 
