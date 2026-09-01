@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+AbhishekGrover!;AI+Engineer+%7C+Agents+%26+RAG;Building+smarter+agents" alt="Typing animation" /></div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+Abhishek+Grover!;AI+Engineer+%7C+Agents+%26+RAG;Building+smarter+agents" alt="Typing animation" /></div>
      
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2K%20Followers-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
