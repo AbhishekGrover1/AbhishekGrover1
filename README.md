@@ -8,25 +8,25 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> <br>
 
-**<h2>Glad to see you here!❤</h2>**    
- 
-I'm an AI / ML Engineer specializing in RAG systems and multi-agent pipelines with hands-on experience building intelligent applications using LangChain, LangGraph, FastAPI, and Python.
-  
-Beyond building models, I value clean architecture, real-world impact, and practical problem-solving. I enjoy turning complex AI requirements into scalable and production-ready solutions.
-  
-**Talking about Personal Stuffs:** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+<h2>Glad to see you here ❤️</h2>
 
-<img align="right" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Developer"/>
-      
-- 🔭 **Completed ML Internship at Cognifyz Technologies;**
-- 🌱 **I'm currently learning LangGraph, CrewAI, and MLflow;**
-- 👯 **I'm looking for open source AI/ML collaboration;**
-- 💬 **Ask me about RAG systems, LLMs, and ML pipelines;**
-- 📫 **How to reach me: ss107456@gmail.com**
-- 🌐 **Portfolio: [abhishekgroverai.netlify.app](https://abhishekgroverai.netlify.app)**
+I'm an <b> ML/AI Engineer</b> specializing in <b>Generative AI, RAG systems, LLM applications, and Agentic AI</b>, building intelligent solutions with <b>Python, LangChain, LangGraph, FastAPI, and MLflow</b>.
+
+I focus on <b>scalable AI architectures, production-ready systems, and real-world problem solving</b> — turning complex AI concepts into practical applications.
+
+<b>What I'm focused on:</b> 🤖
+
+<img align="right" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="AI/ML Engineer"/>
+
+* 🚀 <b>Building:</b> RAG & Agentic AI applications
+* 🧠 <b>Specializing in:</b> LLMs, RAG, Multi-Agent Systems & MLOps
+* ⚙️ <b>Tech:</b> Python · LangChain · LangGraph · FastAPI · PyTorch
+* 🤝 <b>Open to:</b> AI/ML & Open Source collaboration
+* 📫 <b>Email:</b> [ss107456@gmail.com](mailto:ss107456@gmail.com)
 
 <br>
 <br>
+
 
 <!-- Snake Game Repo View -->
 <div align="center">
