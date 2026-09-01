@@ -23,7 +23,6 @@ I focus on <b>scalable AI architectures, production-ready systems, and real-worl
 * 🧠 <b>Specializing in:</b> LLMs, RAG, Multi-Agent Systems & MLOps
 * ⚙️ <b>Tech:</b> Python · LangChain · LangGraph · FastAPI · PyTorch
 * 🤝 <b>Open to:</b> AI/ML & Open Source collaboration
-* 📫 <b>Email:</b> [ss107456@gmail.com](mailto:ss107456@gmail.com)
 
 <br>
 <br>
