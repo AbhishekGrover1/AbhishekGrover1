@@ -16,15 +16,11 @@ I'm an <b> ML/AI Engineer</b> specializing in <b>Generative AI, RAG systems, LLM
 I focus on <b>scalable AI architectures, production-ready systems, and real-world problem solving</b> — turning complex AI concepts into practical applications.
 
 <b>What I'm focused on:</b> 🤖
-
-<img align="right" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="AI/ML Engineer"/>
-
 * 🚀 <b>Building:</b> RAG & Agentic AI applications
 * 🧠 <b>Specializing in:</b> LLMs, RAG, Multi-Agent Systems & MLOps
 * ⚙️ <b>Tech:</b> Python · LangChain · LangGraph · FastAPI · PyTorch
 * 🤝 <b>Open to:</b> AI/ML & Open Source collaboration
 
-<br>
 <br>
 
 
