@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=750&lines=Greetings%2C+I'm+Abhishek+Grover;Visionary+AI+Engineer+%7C+Agents+%26+RAG;Architecting+Next-Generation+AI" alt="Typing animation" /></div>
      
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2K%20Followers-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2K%20Followers-6A0DAD?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
 [![Open to Opportunities](https://img.shields.io/badge/Open_to-Opportunities-6A0DAD)](mailto:ss107456@gmail.com)
-[![Google Skills](https://img.shields.io/badge/Google%20Skills-Profile-4285F4?logo=google&logoColor=white)](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c)
-[![Email](https://img.shields.io/badge/Email-ss107456%40gmail.com-0D1117?logo=gmail&logoColor=6A0DAD)](mailto:ss107456@gmail.com)
+[![Google Skills](https://img.shields.io/badge/Google%20Skills-Profile-6A0DAD?logo=google&logoColor=white)](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c)
+[![Email](https://img.shields.io/badge/Email-ss107456%40gmail.com-6A0DAD?logo=gmail&logoColor=white)](mailto:ss107456@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> <br>
 
@@ -22,7 +22,6 @@ My primary mandate is architecting <b>highly scalable AI pipelines, robust produ
 * 🤝 <b>Collaborations:</b> Elite AI/ML Initiatives & Open-Source Innovations
 
 <br>
-
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
