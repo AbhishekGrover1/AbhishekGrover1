@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=750&lines=Greetings%2C+I'm+Abhishek+Grover;Visionary+AI+Engineer+%7C+Agents+%26+RAG;Architecting+Next-Generation+AI" alt="Typing animation" /></div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&lines=Greetings%2C+I'm+Abhishek+Grover;Visionary+AI+Engineer+%7C+Agents+%26+RAG;Architecting+Next-Generation+AI" alt="Typing animation" /></div>
      
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2K%20Followers-6A0DAD?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
-[![Open to Opportunities](https://img.shields.io/badge/Open_to-Opportunities-6A0DAD)](mailto:ss107456@gmail.com)
-[![Google Skills](https://img.shields.io/badge/Google%20Skills-Profile-6A0DAD?logo=google&logoColor=white)](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c)
-[![Email](https://img.shields.io/badge/Email-ss107456%40gmail.com-6A0DAD?logo=gmail&logoColor=white)](mailto:ss107456@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2K%20Followers-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-grover07/)
+[![Open to Opportunities](https://img.shields.io/badge/Open_to-Opportunities-D4AF37)](mailto:ss107456@gmail.com)
+[![Google Skills](https://img.shields.io/badge/Google%20Skills-Profile-4285F4?logo=google&logoColor=white)](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c)
+[![Email](https://img.shields.io/badge/Email-ss107456%40gmail.com-1E1E1E?logo=gmail&logoColor=D4AF37)](mailto:ss107456@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> <br>
 
-<h2><code>Welcome to my digital workspace 🚀</code></h2>
+<h2>Welcome to my digital workspace 🚀</h2>
 
-<code>I am a <b>Visionary ML/AI Engineer</b> with profound expertise in <b>Generative AI, advanced RAG ecosystems, Enterprise LLM integration, and Autonomous Agentic AI</b>. I engineer state-of-the-art, intelligent infrastructures utilizing <b>Python, LangChain, LangGraph, FastAPI, and MLflow</b>.</code>
-<br><br>
-<code>My primary mandate is architecting <b>highly scalable AI pipelines, robust production-grade systems, and sophisticated algorithmic solutions</b>—transforming theoretical machine learning paradigms into high-impact technological assets.</code>
-<br><br>
-<code><b>Current Professional Focus:</b></code> 🤖
-* 🚀 <code><b>Architecting:</b> Enterprise-grade RAG & Autonomous Agentic Ecosystems</code>
-* 🧠 <code><b>Domain Mastery:</b> Large Language Models, Multi-Agent Orchestration & Advanced MLOps</code>
-* ⚙️ <code><b>Core Stack:</b> Python · LangChain · LangGraph · FastAPI · PyTorch</code>
-* 🤝 <code><b>Collaborations:</b> Elite AI/ML Initiatives & Open-Source Innovations</code>
+I am a <b>Visionary ML/AI Engineer</b> with profound expertise in <b>Generative AI, advanced RAG ecosystems, Enterprise LLM integration, and Autonomous Agentic AI</b>. I engineer state-of-the-art, intelligent infrastructures utilizing <b>Python, LangChain, LangGraph, FastAPI, and MLflow</b>.
+
+My primary mandate is architecting <b>highly scalable AI pipelines, robust production-grade systems, and sophisticated algorithmic solutions</b>—transforming theoretical machine learning paradigms into high-impact technological assets.
+
+<b>Current Professional Focus:</b> 🤖
+* 🚀 <b>Architecting:</b> Enterprise-grade RAG & Autonomous Agentic Ecosystems
+* 🧠 <b>Domain Mastery:</b> Large Language Models, Multi-Agent Orchestration & Advanced MLOps
+* ⚙️ <b>Core Stack:</b> Python · LangChain · LangGraph · FastAPI · PyTorch
+* 🤝 <b>Collaborations:</b> Elite AI/ML Initiatives & Open-Source Innovations
 
 <br>
 
@@ -63,16 +63,16 @@
 ## 📊 Analytics & Metrics :
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhishekGrover1&theme=dracula" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhishekGrover1&theme=dracula" alt="AbhishekGrover1's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhishekGrover1&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhishekGrover1&theme=tokyonight" alt="AbhishekGrover1's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekGrover1&theme=dracula" alt="AbhishekGrover1's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekGrover1&theme=tokyonight" alt="AbhishekGrover1's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=6A0DAD&center=true&vCenter=true&width=750&height=60&lines=Connect+With+Me+For+Future+Collaborations!" alt="Connect With Me!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&height=60&lines=Connect+With+Me+For+Future+Collaborations!" alt="Connect With Me!" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
