@@ -9,19 +9,20 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> <br>
 
-<h2>Welcome to my digital workspace 🚀</h2>
+<h2><code>Welcome to my digital workspace 🚀</code></h2>
 
-I am a <b>Visionary ML/AI Engineer</b> with profound expertise in <b>Generative AI, advanced RAG ecosystems, Enterprise LLM integration, and Autonomous Agentic AI</b>. I engineer state-of-the-art, intelligent infrastructures utilizing <b>Python, LangChain, LangGraph, FastAPI, and MLflow</b>.
-
-My primary mandate is architecting <b>highly scalable AI pipelines, robust production-grade systems, and sophisticated algorithmic solutions</b>—transforming theoretical machine learning paradigms into high-impact technological assets.
-
-<b>Current Professional Focus:</b> 🤖
-* 🚀 <b>Architecting:</b> Enterprise-grade RAG & Autonomous Agentic Ecosystems
-* 🧠 <b>Domain Mastery:</b> Large Language Models, Multi-Agent Orchestration & Advanced MLOps
-* ⚙️ <b>Core Stack:</b> Python · LangChain · LangGraph · FastAPI · PyTorch
-* 🤝 <b>Collaborations:</b> Elite AI/ML Initiatives & Open-Source Innovations
+<code>I am a <b>Visionary ML/AI Engineer</b> with profound expertise in <b>Generative AI, advanced RAG ecosystems, Enterprise LLM integration, and Autonomous Agentic AI</b>. I engineer state-of-the-art, intelligent infrastructures utilizing <b>Python, LangChain, LangGraph, FastAPI, and MLflow</b>.</code>
+<br><br>
+<code>My primary mandate is architecting <b>highly scalable AI pipelines, robust production-grade systems, and sophisticated algorithmic solutions</b>—transforming theoretical machine learning paradigms into high-impact technological assets.</code>
+<br><br>
+<code><b>Current Professional Focus:</b></code> 🤖
+* 🚀 <code><b>Architecting:</b> Enterprise-grade RAG & Autonomous Agentic Ecosystems</code>
+* 🧠 <code><b>Domain Mastery:</b> Large Language Models, Multi-Agent Orchestration & Advanced MLOps</code>
+* ⚙️ <code><b>Core Stack:</b> Python · LangChain · LangGraph · FastAPI · PyTorch</code>
+* 🤝 <code><b>Collaborations:</b> Elite AI/ML Initiatives & Open-Source Innovations</code>
 
 <br>
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
