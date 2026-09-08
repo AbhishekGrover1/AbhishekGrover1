@@ -20,36 +20,45 @@
 - 🔊 **I am currently open to new opportunities related to ML/AI Engineering, Generative AI, or LLM Integration. If there is a suitable role, please feel free to send an email to ss107456@gmail.com. I will respond at my earliest convenience.**
 
 
-### Technologies 💻
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python"/></td>
-    <td><img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java"/></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI"/></td>
-    <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API"/></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL"/></td>
-    <td><img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/></td>
-    <td><img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow"/></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch"/></td>
-    <td><img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65" alt="Scikit-learn"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy"/></td>
-    <td><img src="https://skillicons.dev/icons?i=jupyter" width="65" height="65" alt="Jupyter"/></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/></td>
-    <td><img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub"/></td>
-    <td><img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker"/></td>
-    <td><img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="GCP (Vertex AI)"/></td>
-    <td><img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux"/></td>
-    <td><img src="https://skillicons.dev/icons?i=md" width="65" height="65" alt="Markdown"/></td>
-    <td><img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="GitHub Actions"/></td>
-  </tr>
-</table>
+<div align="center">
+  <h2><b> 🔮 Tech Spheres </b></h2>
+  <br>
+
+  <h3><b> 🧠 AI, Machine Learning & Data </b></h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="65" alt="TensorFlow" title="TensorFlow" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=pytorch" width="65" alt="PyTorch" title="PyTorch" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=sklearn" width="65" alt="Scikit-learn" title="Scikit-learn" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="65" alt="Pandas" title="Pandas" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="65" alt="NumPy" title="NumPy" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=jupyter" width="65" alt="Jupyter" title="Jupyter" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+  </p>
+  <br>
+
+  <h3><b> 🌐 Languages & Backend </b></h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python" width="65" alt="Python" title="Python" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=java" width="65" alt="Java" title="Java" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=fastapi" width="65" alt="FastAPI" title="FastAPI" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" alt="REST API" title="REST API" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=postgres" width="65" alt="PostgreSQL" title="PostgreSQL" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=html" width="65" alt="HTML5" title="HTML5" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=css" width="65" alt="CSS3" title="CSS3" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+  </p>
+  <br>
+
+  <h3><b> 🛠️ Cloud, DevOps & Tools </b></h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker" width="65" alt="Docker" title="Docker" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=gcp" width="65" alt="GCP (Vertex AI)" title="Google Cloud / Vertex AI" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=linux" width="65" alt="Linux" title="Linux" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=git" width="65" alt="Git" title="Git" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=github" width="65" alt="GitHub" title="GitHub" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=githubactions" width="65" alt="GitHub Actions" title="GitHub Actions" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=vscode" width="65" alt="VS Code" title="VS Code" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=md" width="65" alt="Markdown" title="Markdown" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+  </p>
+</div>
 
 <p align="center">
   <picture>
