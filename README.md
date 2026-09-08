@@ -10,6 +10,16 @@
   <a href="mailto:ss107456@gmail.com"><img src="https://img.shields.io/badge/Email-ss107456%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
+### Hi there 👋
+- 👋 Hi, I’m Abhishek Grover, currently pursuing a Bachelor of Computer Applications at ***Amity University Online***.
+- 👨‍💻 A Visionary ML/AI Engineer based in Delhi. ***Good at Python, Generative AI, and RAG Ecosystems***.
+- 🌱 I’m currently focused on architecting ***Enterprise-grade RAG & Autonomous Agentic Ecosystems*** utilizing LangChain, LangGraph, and FastAPI.
+- 📚 I’m currently advancing my expertise in ***Prompt Engineering, MLOps (Vertex AI)***, and state-of-the-art ***Large Language Models***.
+- 👷 I am looking to collaborate on elite ***AI/ML Initiatives & Open-Source Innovations***.
+- 👉 You can view my [***Google Skills Profile***](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c) or connect with me on [***LinkedIn***](https://www.linkedin.com/in/abhishek-grover07/).
+- 🔊 **I am currently open to new opportunities related to ML/AI Engineering, Generative AI, or LLM Integration. If there is a suitable role, please feel free to send an email to ss107456@gmail.com. I will respond at my earliest convenience.**
+
+
 ### Technologies 💻
 <table>
   <tr>
@@ -40,6 +50,8 @@
     <td><img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="GitHub Actions"/></td>
   </tr>
 </table>
+
+
 
 
 
