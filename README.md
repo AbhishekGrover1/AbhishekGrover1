@@ -4,7 +4,7 @@
 </div>
      
 <div align="center">
-  <a href="https://www.linkedin.com/in/abhishek-grover07/"><img src="https://img.shields.io/badge/LinkedIn-2K%20Followers-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-grover07/"><img src="https://img.shields.io/badge/LinkedIn-2.2K%20Followers-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ss107456@gmail.com"><img src="https://img.shields.io/badge/Open_to-Opportunities-9333EA?logo=maildotru&logoColor=white" alt="Open to Opportunities" /></a>
   <a href="https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c"><img src="https://img.shields.io/badge/Google%20Skills-Profile-4285F4?logo=google&logoColor=white" alt="Google Skills" /></a>
   <a href="mailto:ss107456@gmail.com"><img src="https://img.shields.io/badge/Email-ss107456%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
