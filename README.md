@@ -19,46 +19,32 @@
 - 👉 You can view my [***Google Skills Profile***](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c) or connect with me on [***LinkedIn***](https://www.linkedin.com/in/abhishek-grover07/).
 - 🔊 **I am currently open to new opportunities related to ML/AI Engineering, Generative AI, or LLM Integration. If there is a suitable role, please feel free to send an email to ss107456@gmail.com. I will respond at my earliest convenience.**
 
-
 <div align="center">
-  <h2><b> 🔮 Tech Spheres </b></h2>
-  <br>
-
-  <h3><b> 🧠 AI, Machine Learning & Data </b></h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=tensorflow" width="65" alt="TensorFlow" title="TensorFlow" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=pytorch" width="65" alt="PyTorch" title="PyTorch" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=sklearn" width="65" alt="Scikit-learn" title="Scikit-learn" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="65" alt="Pandas" title="Pandas" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="65" alt="NumPy" title="NumPy" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=jupyter" width="65" alt="Jupyter" title="Jupyter" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-  </p>
-  <br>
-
-  <h3><b> 🌐 Languages & Backend </b></h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python" width="65" alt="Python" title="Python" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=java" width="65" alt="Java" title="Java" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=fastapi" width="65" alt="FastAPI" title="FastAPI" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" alt="REST API" title="REST API" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=postgres" width="65" alt="PostgreSQL" title="PostgreSQL" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=html" width="65" alt="HTML5" title="HTML5" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=css" width="65" alt="CSS3" title="CSS3" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-  </p>
-  <br>
-
-  <h3><b> 🛠️ Cloud, DevOps & Tools </b></h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=docker" width="65" alt="Docker" title="Docker" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=gcp" width="65" alt="GCP (Vertex AI)" title="Google Cloud / Vertex AI" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=linux" width="65" alt="Linux" title="Linux" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=git" width="65" alt="Git" title="Git" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=github" width="65" alt="GitHub" title="GitHub" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=githubactions" width="65" alt="GitHub Actions" title="GitHub Actions" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=vscode" width="65" alt="VS Code" title="VS Code" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
-    <img src="https://skillicons.dev/icons?i=md" width="65" alt="Markdown" title="Markdown" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="35" alt="TensorFlow" title="TensorFlow" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=pytorch" width="35" alt="PyTorch" title="PyTorch" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=sklearn" width="35" alt="Scikit-learn" title="Scikit-learn" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="35" alt="Pandas" title="Pandas" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="35" alt="NumPy" title="NumPy" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=jupyter" width="35" alt="Jupyter" title="Jupyter" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=python" width="35" alt="Python" title="Python" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=java" width="35" alt="Java" title="Java" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=fastapi" width="35" alt="FastAPI" title="FastAPI" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="35" alt="REST API" title="REST API" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=postgres" width="35" alt="PostgreSQL" title="PostgreSQL" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=html" width="35" alt="HTML5" title="HTML5" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=css" width="35" alt="CSS3" title="CSS3" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=docker" width="35" alt="Docker" title="Docker" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=gcp" width="35" alt="GCP (Vertex AI)" title="Google Cloud / Vertex AI" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=linux" width="35" alt="Linux" title="Linux" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=git" width="35" alt="Git" title="Git" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub" title="GitHub" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=githubactions" width="35" alt="GitHub Actions" title="GitHub Actions" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=vscode" width="35" alt="VS Code" title="VS Code" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
+    <img src="https://skillicons.dev/icons?i=md" width="35" alt="Markdown" title="Markdown" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 5px;"/>
   </p>
 </div>
+
 
 <p align="center">
   <picture>
