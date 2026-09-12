@@ -18,7 +18,7 @@
 - 👷 I am looking to collaborate on elite ***AI/ML Initiatives & Open-Source Innovations***.
 - 👉 You can view my [***Google Skills Profile***](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c) or connect with me on [***LinkedIn***](https://www.linkedin.com/in/abhishek-grover07/).
 - 🔊 **I am currently open to new opportunities related to ML/AI Engineering, Generative AI, or LLM Integration. If there is a suitable role, please feel free to send an email to ss107456@gmail.com. I will respond at my earliest convenience.**
-
+- 📚 Ex-Student Ambassador [***Amity University Online***](https://amityonline.com/)
 <br>
 
 <div align="center">
