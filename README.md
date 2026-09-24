@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/_-181717?logo=github&logoColor=white" alt="GitHub" title="GitHub" style="width: 40px; height: 40px; border-radius: 50%; margin: 4px; object-fit: cover;" />
   <img src="https://img.shields.io/badge/_-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" title="GitHub Actions" style="width: 40px; height: 40px; border-radius: 50%; margin: 4px; object-fit: cover;" />
   <img src="https://img.shields.io/badge/_-0A9EDC?logo=pytest&logoColor=white" alt="Pytest" title="Pytest" style="width: 40px; height: 40px; border-radius: 50%; margin: 4px; object-fit: cover;" />
-  <img src="https://img.shields.io/badge/_-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" title="VS Code" style="width: 40px; height: 40px; border-radius: 50%; margin: 4px; object-fit: cover;" />
+  <img  src="https://img.shields.io/badge/_-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" title="VS Code" style="width: 40px; height: 40px; border-radius: 50%; margin: 4px; object-fit: cover;" />
   <img src="https://img.shields.io/badge/_-1575F9?logo=xcode&logoColor=white" alt="Xcode" title="Xcode" style="width: 40px; height: 40px; border-radius: 50%; margin: 4px; object-fit: cover;" />
   <img src="https://img.shields.io/badge/_-000000?logo=markdown&logoColor=white" alt="Markdown" title="Markdown" style="width: 40px; height: 40px; border-radius: 50%; margin: 4px; object-fit: cover;" />
 </div>
