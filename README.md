@@ -19,7 +19,7 @@
 - 👉 You can view my [***Google Skills Profile***](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c) or connect with me on [***LinkedIn***](https://www.linkedin.com/in/abhishek-grover07/).
 - 🔊 **I am currently open to new opportunities related to ML/AI Engineering, Generative AI, or LLM Integration. If there is a suitable role, please feel free to send an email to ss107456@gmail.com. I will respond at my earliest convenience.**
 - 📚 Ex-Student Ambassador [***Amity University Online***](https://amityonline.com/)
-- 🚀 Engineered comprehensive machine learning pipelines from conception to deployment. Portfolio highlights include an [***Invoice Intelligence System***](https://invoice-intelligence-system-8r36.onrender.com), a [***Big Basket Recommender***](https://big-basket-recommender.onrender.com), and a [***Ford Price Intelligence***](https://ford-price-intelligence-1.onrender.com) engine a [***Credit Card Fraud Detection***](https://credit-card-fraud-detection-1-1ao8.onrender.com)
+- 🚀 Engineered comprehensive machine learning pipelines from conception to deployment. Portfolio highlights include an [***Invoice Intelligence System***](https://invoice-intelligence-system-8r36.onrender.com), a [***Big Basket Recommender***](https://big-basket-recommender.onrender.com), and a [***Ford Price Intelligence***](https://ford-price-intelligence-1.onrender.com) engine a [***Credit Card Fraud Detection***](https://credit-card-fraud-detection-1-1ao8.onrender.com) a [***FlappyBird Game***](https://flappybird-8udg.onrender.com)
 
 <br>
 
