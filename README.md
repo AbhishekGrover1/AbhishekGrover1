@@ -11,7 +11,7 @@
 </div>
 
 ### Hi there 👋  
-- 👋 Hi, I’m Abhishek Grover, currently pursuing a Bachelor of Computer Applications at ***Amity University Online***.
+- 👋 Hi, I’m Abhishek Grover, currently pursuing a Bachelor of Computer Applications at [***Amity University Online***](https://amityonline.com/).
 - 👨‍💻 A Visionary ML/AI Engineer based in Delhi. ***Good at Python, Generative AI, and RAG Ecosystems***.
 - 🌱 I’m currently focused on architecting ***Enterprise-grade RAG & Autonomous Agentic Ecosystems*** utilizing LangChain, LangGraph, and FastAPI.
 - 📚 I’m currently advancing my expertise in ***Prompt Engineering, MLOps (Vertex AI)***, and state-of-the-art ***Large Language Models***.
