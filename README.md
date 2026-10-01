@@ -19,7 +19,6 @@
 - 👉 You can view my [***Google Skills Profile***](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c) or connect with me on [***LinkedIn***](https://www.linkedin.com/in/abhishek-grover07/).
 - 🔊 **I am currently open to new opportunities related to ML/AI Engineering, Generative AI, or LLM Integration. If there is a suitable role, please feel free to send an email to ss107456@gmail.com. I will respond at my earliest convenience.**
 - 📚 Ex-Student Ambassador [***Amity University Online***](https://amityonline.com/)
-
   - [***FlappyBird Game***](https://flappybird-8udg.onrender.com) - A fully playable, custom-built clone of the classic game.
   - [***Invoice Intelligence System***](https://invoice-intelligence-system-8r36.onrender.com) - End-to-end freight prediction built with FastAPI and deployed on Render.
   - [***Big Basket Recommender***](https://big-basket-recommender.onrender.com) - Collaborative filtering engine for personalized grocery suggestions.
