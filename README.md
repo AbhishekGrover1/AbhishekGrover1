@@ -19,10 +19,11 @@
 - 👉 You can view my [***Google Skills Profile***](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c) or connect with me on [***LinkedIn***](https://www.linkedin.com/in/abhishek-grover07/).
 - 🔊 **I am currently open to new opportunities related to ML/AI Engineering, Generative AI, or LLM Integration. If there is a suitable role, please feel free to send an email to ss107456@gmail.com. I will respond at my earliest convenience.**
 - ### ***Live Projects & Demos***
+  - [***FlappyBird Game***](https://flappybird-8udg.onrender.com) - A fully playable, custom-built clone of the classic game.
   - [***Telco Churn Predictor***](https://telco-churn-predictor-2exf.onrender.com/) - Machine learning system designed to predict customer churn in the telecommunications sector.
   - [***Credit Ladger***](https://credit-ledger-otav.onrender.com/) - Web-based ledger for tracking and managing credit balances.
-  - [***FlappyBird Game***](https://flappybird-8udg.onrender.com) - A fully playable, custom-built clone of the classic game.
   - [***Invoice Intelligence System***](https://invoice-intelligence-system-8r36.onrender.com) - End-to-end freight prediction built with FastAPI and deployed on Render.
+  - [***SMS Spam Classifier***](https://sms-spam-classifier-lhks.onrender.com/) - Filtering the noise: A robust ML-powered SMS Spam Classifier
   - [***Big Basket Recommender***](https://big-basket-recommender.onrender.com) - Collaborative filtering engine for personalized grocery suggestions.
   - [***Ford Price Intelligence***](https://ford-price-intelligence-1.onrender.com) - Regression modeling system for used vehicle price prediction.
   - [***Credit Card Fraud Detection***](https://credit-card-fraud-detection-1-1ao8.onrender.com) - Real-time anomaly detection pipeline.
