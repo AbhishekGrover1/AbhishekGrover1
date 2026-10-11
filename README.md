@@ -75,7 +75,7 @@
 
 <br>
 
-<p align="center">
+<p align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maziyarpanahi/maziyarpanahi/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maziyarpanahi/maziyarpanahi/output/github-snake.svg">
