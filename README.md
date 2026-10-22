@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=750&lines=Greetings%2C+I'm+Abhishek+Grover;Visionary+AI+Engineer+%7C+Agents+%26+RAG;Architecting+Next-Generation+AI" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=35&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=750&lines=Greetings%2C+I'm+Abhishek+Grover;Visionary+AI+Engineer+%7C+Agents+%26+RAG;Architecting+Next-Generation+AI" alt="Typing animation" />
 </div>
      
-<div align="center">
+<div align="center"> 
   <a href="https://www.linkedin.com/in/abhishek-grover07/"><img src="https://img.shields.io/badge/LinkedIn-3K%20Followers-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="18" /></a>
   <a href="mailto:ss107456@gmail.com"><img src="https://img.shields.io/badge/Open_to-Opportunities-9333EA?logo=maildotru&logoColor=white" alt="Open to Opportunities" height="18" /></a>
   <a href="https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c"><img src="https://img.shields.io/badge/Google%20Skills-Profile-4285F4?logo=google&logoColor=white" alt="Google Skills" height="18" /></a>
