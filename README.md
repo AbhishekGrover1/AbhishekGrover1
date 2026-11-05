@@ -29,7 +29,7 @@
   - [***Ford Price Intelligence***](https://ford-price-intelligence-1.onrender.com) -Regression modeling system for used vehicle price prediction utilizing multi-variable feature scaling, residual error optimization, and advanced gradient boosting frameworks to estimate vehicle valuations based on mileage, year, condition, and market trends.
   - [***Credit Card Fraud Detection***](https://credit-card-fraud-detection-1-1ao8.onrender.com) -Real-time anomaly detection pipeline designed to identify fraudulent financial transactions amidst severe class imbalance, integrating robust data preprocessing workflows, tree-based anomaly classifiers, and high-throughput evaluation metrics to secure digital assets.
   - [***Logistics Intelligence API***](https://logistics-intelligence-api-1.onrender.com/) - Scalable API built for logistics and supply chain analytics, providing optimized route evaluation endpoints, shipment tracking intelligence, automated inventory metrics calculations, and secure FastAPI-driven endpoints designed for high-concurrency environments. 
-<br>
+<br> 
 
 <div align="center">
   <img src="https://img.shields.io/badge/_-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow" style="width: 40px; height: 40px; border-radius: 50%; margin: 4px; object-fit: cover;" />
