@@ -18,7 +18,7 @@
 - 👷 I am looking to collaborate on elite ***AI/ML Initiatives & Open-Source Innovations***.
 - 👉 You can view my [***Google Skills Profile***](https://www.skills.google/public_profiles/fe1558e1-04d9-4830-8aac-aba3e0bae29c) or connect with me on [***LinkedIn***](https://www.linkedin.com/in/abhishek-grover07/).
 - 🔊 **I am currently open to new opportunities related to ML/AI Engineering, Generative AI, or LLM Integration. If there is a suitable role, please feel free to send an email to ss107456@gmail.com. I will respond at my earliest convenience.**
-- ### ***Live Projects & Demos***
+- ### ***Live Projects & Demo***
   - [***Industrial IoT Predictive Maintenance***](https://industrial-iot-predictive-maintenance-9z9h.onrender.com/) — Condition-monitoring intelligence that diagnoses machine failure modes from multivariate sensor telemetry using an XGBoost classifier, SMOTENC rebalancing of minority fault classes, a FastAPI inference service, an interactive prediction interface, and automated API tests.
   - [***Flappy Bird Game***](https://flappybird-8udg.onrender.com) — Browser-playable Flappy Bird engineered with real-time collision detection, tuned physics, responsive controls, persistent high-score tracking, and an optimized render loop, paired with a PyTorch Deep Q-Network agent built on experience replay, a target network, and epsilon-greedy exploration.
   - [***Telco Churn Predictor***](https://telco-churn-predictor-2exf.onrender.com/) — Customer-retention intelligence that forecasts telecom churn through an end-to-end scikit-learn pipeline — exploratory analysis, feature engineering, and hyperparameter-tuned classification — served by a Flask inference service to surface high-risk customer segments.
