@@ -11,7 +11,7 @@
 </div>
 
 ### ***Hello! Everyone***👋    
-- 👋 I’m Abhishek Grover, currently pursuing a Bachelor of Computer Applications & Ex-Student Ambassador at [***Amity University Online***](https://amityonline.com/).
+- 👋 I’m Abhishek Grover, currently pursuing a Bachelor of Computer Applications & Student at [***Amity University Online***](https://amityonline.com/).
 - 👨‍💻 A Visionary Ai/Ml Engineer based in  New Delhi. ***Python, End-to-End Machine Learning, and API Development (FastAPI)***.
 - 🌱 I’m focused on architecting ***Scalable ML Infrastructure & Predictive Intelligence Systems*** utilizing FastAPI, ZenML, and Render, utilizing LangChain, LangGraph .
 - 📚 I’m currently advancing my expertise in ***Prompt Engineering, MLOps (Vertex AI)***, and state-of-the-art ***Large Language Models***.
